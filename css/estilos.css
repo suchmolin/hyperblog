@@ -8,6 +8,11 @@ body{
 
 }
 
+#cabecera{
+    background: #33A;
+    
+}
+
 #container{
     width: 70%;
     padding: 1em;
@@ -18,5 +23,5 @@ body{
 
 #container h1{
     font-size: 20px;
-    
+
 }
